@@ -1,5 +1,9 @@
+#Telegram @originNick
 # Gradle files
 .gradle/
+
+#idea files
+.idea/
 
 # User-specific configurations
 *.iml
